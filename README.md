@@ -67,7 +67,7 @@ RELATIVE STRENGTH LINE
 AVERAGE TRUE RANGE( ATR PIPS BY LAZY BEAR { FIXED BY ELIXIUM} )
 
 
-#Tool Setup
+# Tool Setup
 
 Install Python dependencies
 https://www.python.org/downloads/
