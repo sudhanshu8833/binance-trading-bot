@@ -8,7 +8,7 @@ So, if coins are basically oscillating with respect to each other, it seems smar
 
 
 
-DRAGON STRATEGY
+# DRAGON STRATEGY
 
 THIS STRATEGY CONSISTS OF BULLISH AND BEARISH PATTERNS.
 
@@ -65,3 +65,17 @@ THIS IS A NO LOWER WICK GREEN HEIKIN ASHI CANDLE ALSO WE SHALL USE THE FOLLOWING
 STOCHASTIC RSI
 RELATIVE STRENGTH LINE
 AVERAGE TRUE RANGE( ATR PIPS BY LAZY BEAR { FIXED BY ELIXIUM} )
+
+
+#Tool Setup
+Install Python dependencies
+https://www.python.org/downloads/
+Install Pip
+https://pip.pypa.io/en/stable/installation/
+To download all the requirements :
+Run the following line in the terminal: pip install -r requirements.txt.
+
+Run program
+You would be able to see all the orders that has been generated.
+
+python3 project33new.py
