@@ -68,6 +68,7 @@ AVERAGE TRUE RANGE( ATR PIPS BY LAZY BEAR { FIXED BY ELIXIUM} )
 
 
 #Tool Setup
+
 Install Python dependencies
 https://www.python.org/downloads/
 Install Pip
